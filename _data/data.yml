@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: lizhy355@mail2.sysu.edu.cn
-    phone: 
+    phone: (+86)180-0837-3181
     timezone: CST (China Standard Time)
     citizenship:
     website: #do not add http://
@@ -38,19 +38,13 @@ sidebar:
         - idiom: English
           level: Fluent
 
-        - idiom:
-          level:
-
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Basketball
           link:
 
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
+        - item: Singing
           link:
 
 career-profile:
@@ -65,26 +59,16 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: MSc in Zoology
+        university: Sun Yat-sen University
+        time: 2020 - 2023
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
+            - Complete the RNA-SEQ analysis independently
+            - Complete the GWAS analysis independently
+      - degree: BSc in Animal Science
         university: Bristol University
-        time: 2007 - 2011
+        time: 2015 - 2019
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
             - Bullet point
             - Bullet point
 experiences:
